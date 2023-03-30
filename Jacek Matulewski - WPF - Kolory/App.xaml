@@ -1,0 +1,9 @@
+﻿<Application x:Class="Jacek_Matulewski___WPF___Kolory.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Jacek_Matulewski___WPF___Kolory"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
